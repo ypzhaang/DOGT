@@ -9,3 +9,6 @@ Yupei Zhang, Xian Sheng, Xuequn Shang
 >The code requires Python >= 3.9 and PyTorch >= 1.10.1.
 ## Run
 main_mnist.py for runing on mnist dataset
+
+##Contact
+Please contact to ypzhaang@nwpu.edu.cn for any problems.
